@@ -1,6 +1,6 @@
 package classes.ex5;
 
-public class electrocas {
+public class fridge {
     public String brand;
     public String type;
 
